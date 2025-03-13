@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z890 GAMING X WIFI7, Intel Core Ultra 7 265K, AMD Radeon RX 6800 XT
 
+![Portifolio](https://github.com/user-attachments/assets/97515fb0-526c-4984-9fda-7643f8364080)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.2)
